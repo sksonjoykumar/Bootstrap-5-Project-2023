@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.logo {
+  width: 2.5rem;
+}
+.logo-2 {
+  width: 3rem;
+}
+.card-img-top,
+.cover-images {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+}
+.articles h3 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.articles h4 {
+  font-size: 26;
+}
+.articles a {
+  text-decoration: none;
+  color: black;
+}
+.articles p {
+  font-size: 16px;
+  line-height: 1.5rem;
+  letter-spacing: 0.5px;
+  color: #484040;
+}
+.articles img {
+  width: 100%;
+  height: 450px;
+  object-fit: cover;
+  object-position: center;
+}
+.advertisement-2 img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
